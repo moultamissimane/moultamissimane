@@ -1,17 +1,16 @@
 <h1 align="center">Hi 😊, I'm Moultamiss Imane</h1>
-<h3 align="center">A full stack developer from Casablanca🤙</h3>
+<h3 align="center">A full stack developer</h3>
 
 - 🔭 I’m currently working on **Amethyst**
 
-- 🌱 I’m currently learning **Javascript, React, and more..**
+- 🌱 I’m currently learning **React, Laravel, and more..**
 
-- 👯 I’m looking to collaborate on **Amethyst**
+- 👯 I’m looking to collaborate on **Amethyst 🔮**
 
 - 👨‍💻 All of my projects are available at [https://github.com/moultamissimane](https://github.com/moultamissimane)
 
 - 📫 How to reach me **moultamissimane01@gmail.com**
 
-- ⚡ Fun fact **I like to code 😉🤞**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
