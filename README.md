@@ -3,11 +3,11 @@
 </p>
 
 <h1 align="center">Hi, I'm Moultamiss Imane</h1>
-<h3 align="center">A full stack JAVASCRIPT developer</h3>
+<h3 align="center">Full Stack Javascript Developer</h3>
 
 - 🔭 I’m currently working on **Amethyst**
 
-- 🌱 I’m currently learning **React, Laravel, and more..**
+- 🌱 I’m currently developing my skills in **React JS, Next JS, Node Js and more..**
 
 - 👯 I’m looking to collaborate on **Amethyst 🔮**
 
